@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # ProjetoCSharp_BaseDados"# Privado"  
 =======
 # ProjetoCSharp_BaseDados
@@ -25,4 +24,4 @@ com ligação a base de dados MySQL.
 
 ## Contexto
 Projeto desenvolvido no âmbito da formação no IEFP.
->>>>>>> c96493fcdc41867102cc01cbff0aedcc67ed1455
+
